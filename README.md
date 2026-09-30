@@ -4,7 +4,7 @@
 
 ### Software Developer • Full Stack • Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Construindo+software+para+problemas+reais;Full+Stack+%7C+Java+%7C+C%23+%7C+PHP+%7C+React;Transformando+ideias+em+produtos+digitais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Construindo+software+para+problemas+reais;React+%7C+TypeScript+%7C+C%23+%7C+.NET+%7C+PHP;Do+c%C3%B3digo+ao+deploy+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br/>
 
@@ -17,15 +17,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com formação técnica em Informática e estudante de **Engenharia de Controle e Automação na UFLA**. Meu foco é transformar problemas concretos em aplicações funcionais, com atenção à arquitetura, experiência do usuário e qualidade do código.
+Desenvolvedor de software com formação técnica em Informática e estudante de **Engenharia de Controle e Automação na UFLA**. Construo aplicações web, APIs e sistemas de gestão, trabalhando do frontend ao backend, banco de dados, integrações externas e deploy.
 
-Tenho experiência prática construindo aplicações web, APIs, sistemas de gestão e projetos que integram frontend, backend, banco de dados e serviços externos.
+Meu objetivo aqui é mostrar software executável e decisões técnicas — não apenas uma coleção de exercícios.
 
 - 🎓 Técnico em Informática
 - 🏛️ Engenharia de Controle e Automação — UFLA
-- 💻 Foco em desenvolvimento Full Stack
-- 🧠 Interesse em arquitetura de software, automação e inteligência artificial
-- 🚀 Buscando evoluir através de produtos reais, não apenas exercícios
+- 💻 Desenvolvimento Full Stack
+- ⚙️ APIs, bancos de dados, automação e integrações
+- 🚀 Projetos publicados e pipelines de CI/CD
 
 ---
 
@@ -33,17 +33,7 @@ Tenho experiência prática construindo aplicações web, APIs, sistemas de gest
 
 <div align="center">
 
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,cs,php,python,js,ts,html,css&perline=8" />
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,bootstrap,tailwind&perline=5" />
-
-### Dados & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode,visualstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,js,ts,react,html,css,mysql,supabase,git,github&perline=7" alt="Tecnologias" />
 
 </div>
 
@@ -56,17 +46,23 @@ Tenho experiência prática construindo aplicações web, APIs, sistemas de gest
 <td width="50%" valign="top">
 
 ### 🌦️ [AtmosIQ](https://github.com/Vinicius-Calegari/AtmosIQ)
-Plataforma de inteligência climática orientada à tomada de decisão. Combina dados meteorológicos, previsão de chuva e uma arquitetura preparada para recursos de IA.
+Plataforma de inteligência climática construída com React e TypeScript, com arquitetura organizada para consumo de dados meteorológicos e evolução de recursos analíticos.
 
 **Stack:** React • TypeScript • Vite • Tailwind • TanStack Query • Zustand
+
+[![Live](https://img.shields.io/badge/LIVE_DEMO-Abrir-238636?style=flat-square&logo=github)](https://vinicius-calegari.github.io/AtmosIQ/)
+[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/AtmosIQ)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 [CapitalSync](https://github.com/Vinicius-Calegari/CapitalSync)
-Dashboard financeiro full stack para consulta e acompanhamento de ativos, com integração a APIs externas e backend estruturado em ASP.NET Core.
+Dashboard financeiro full stack para consulta de ações e criptomoedas, com backend ASP.NET Core, cache e integração com provedores externos de mercado.
 
 **Stack:** C# • .NET • ASP.NET Core • JavaScript • REST APIs
+
+[![Live](https://img.shields.io/badge/PRODU%C3%87%C3%83O-Abrir-238636?style=flat-square&logo=railway)](https://capitalsync-production.up.railway.app)
+[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/CapitalSync)
 
 </td>
 </tr>
@@ -74,21 +70,41 @@ Dashboard financeiro full stack para consulta e acompanhamento de ativos, com in
 <td width="50%" valign="top">
 
 ### 💈 [MS Barbearia](https://github.com/Vinicius-Calegari/MS--Barberaria)
-Sistema web de gestão para barbearia com autenticação, cadastro de clientes e gerenciamento de agendamentos.
+Sistema web de gestão para barbearia com autenticação, clientes e agendamentos. Projeto PHP/MySQL containerizado e preparado para ambiente de produção.
 
-**Stack:** PHP • MySQL • JavaScript • HTML • CSS
+**Stack:** PHP • MySQL • JavaScript • Docker
+
+[![Live](https://img.shields.io/badge/PRODU%C3%87%C3%83O-Abrir-238636?style=flat-square&logo=railway)](https://ms-barbearia-production.up.railway.app)
+[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/MS--Barberaria)
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Interface Bancária](https://github.com/Vinicius-Calegari/InterfaceBancaria)
-Aplicação Java de terminal que simula operações bancárias e aplica conceitos de orientação a objetos e gerenciamento de estado.
+### 🗂️ [CRUD PHP/MySQL](https://github.com/Vinicius-Calegari/CRUD)
+Projeto de gestão de clientes com implementação PHP/MySQL e uma demonstração pública independente em JavaScript/localStorage para avaliação rápida no navegador.
 
-**Stack:** Java • OOP • Collections
+**Stack:** PHP • MySQL • JavaScript • GitHub Actions
+
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-Abrir-238636?style=flat-square&logo=github)](https://vinicius-calegari.github.io/CRUD/)
+[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/CRUD)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🔧 O que estes projetos demonstram
+
+```text
+Frontend       → React, TypeScript, JavaScript, HTML/CSS
+Backend        → C#/.NET, ASP.NET Core, PHP
+Dados          → MySQL, Supabase, APIs externas
+Engenharia     → Git, GitHub Actions, Docker, CI/CD
+Deploy         → Railway, GitHub Pages
+```
+
+Além da interface, venho trabalhando em segurança, configuração por variáveis de ambiente, tratamento de erros, organização de arquitetura e deploy reproduzível.
 
 ---
 
@@ -107,13 +123,13 @@ Aplicação Java de terminal que simula operações bancárias e aplica conceito
 
 ---
 
-## 🧭 Como eu trabalho
+## 🧭 Engenharia antes de aparência
 
 ```text
-Problema → entendimento → arquitetura → implementação → validação → melhoria
+Problema → requisitos → arquitetura → implementação → testes → deploy → observabilidade → melhoria
 ```
 
-Prefiro projetos em que tecnologia resolve uma necessidade concreta. Procuro separar responsabilidades, documentar decisões importantes e construir aplicações que possam continuar evoluindo depois da primeira versão.
+Um repositório só entra como destaque quando consegue explicar **o problema que resolve, como foi construído e como pode ser executado ou avaliado**. A meta é evoluir cada projeto nessa direção.
 
 ---
 
@@ -124,19 +140,15 @@ Prefiro projetos em que tecnologia resolve uma necessidade concreta. Procuro sep
 - C# / .NET e Java
 - React e TypeScript
 - Bancos de dados relacionais
-- Engenharia e automação
-- Integração responsável de IA em aplicações
+- Docker e pipelines de CI/CD
+- Engenharia de software e automação
 
 ---
 
 <div align="center">
 
-### Vamos construir algo útil.
+### Software útil, executável e evolutivo.
 
 <img src="https://komarev.com/ghpvc/?username=Vinicius-Calegari&style=for-the-badge&color=2f81f7&label=VISITAS+AO+PERFIL" alt="Profile views" />
-
-<br/><br/>
-
-<sub>Software não é só código — é resolver problemas com clareza.</sub>
 
 </div>
