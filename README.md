@@ -1,92 +1,120 @@
 <div align="center">
 
-# Vinícius Calegari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1158C7,100:58A6FF&text=Vin%C3%ADcius%20Calegari&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Engineering%20Student&descAlignY=58&animation=fadeIn" alt="Vinícius Calegari" />
 
-### Software Developer • Full Stack • Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Construindo+software+para+problemas+reais;React+%7C+TypeScript+%7C+C%23+%7C+.NET+%7C+PHP;Frontend+%E2%86%92+Backend+%E2%86%92+Banco+%E2%86%92+Deploy;Transformando+ideias+em+produtos+execut%C3%A1veis" alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Construindo+software+para+problemas+reais;React+%7C+TypeScript+%7C+C%23+%7C+.NET+%7C+PHP;Do+c%C3%B3digo+ao+deploy+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
+<a href="mailto:viniciusandradecalegari@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Vinicius-Calegari"><img src="https://img.shields.io/badge/GITHUB-@Vinicius--Calegari-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://br.linkedin.com/in/vin%C3%ADcius-calegari"><img src="https://img.shields.io/badge/LINKEDIN-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="mailto:viniciusandradecalegari@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Vinicius-Calegari"><img src="https://img.shields.io/badge/GitHub-Vinicius--Calegari-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
 
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Desenvolvedor de software com formação técnica em Informática e estudante de **Engenharia de Controle e Automação na UFLA**. Construo aplicações web, APIs e sistemas de gestão, trabalhando do frontend ao backend, banco de dados, integrações externas e deploy.
-
-Meu objetivo aqui é mostrar software executável e decisões técnicas — não apenas uma coleção de exercícios.
-
-- 🎓 Técnico em Informática
-- 🏛️ Engenharia de Controle e Automação — UFLA
-- 💻 Desenvolvimento Full Stack
-- ⚙️ APIs, bancos de dados, automação e integrações
-- 🚀 Projetos publicados e pipelines de CI/CD
-
----
-
-## 🧰 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,js,ts,react,html,css,mysql,supabase,git,github&perline=7" alt="Tecnologias" />
+<img src="https://komarev.com/ghpvc/?username=Vinicius-Calegari&style=flat-square&color=58a6ff&label=VISITAS" />
+<img src="https://img.shields.io/github/followers/Vinicius-Calegari?style=flat-square&color=238636&label=SEGUIDORES&logo=github" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## ⚡ Quem sou
+
+```typescript
+const vinicius = {
+  formacao: "Técnico em Informática",
+  universidade: "Engenharia de Controle e Automação — UFLA",
+  foco: "Desenvolvimento Full Stack",
+  construindo: ["Web Apps", "REST APIs", "Sistemas de Gestão", "Automações"],
+  prioridade: "software que funciona fora do localhost"
+};
+```
+
+Desenvolvo aplicações de ponta a ponta: **interface, backend, banco de dados, integrações externas e deploy**. Meu portfólio está sendo construído em torno de projetos executáveis, documentação técnica e evolução contínua do código — não apenas exercícios isolados.
+
+---
+
+## 🚀 Projetos que você pode abrir agora
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ [AtmosIQ](https://github.com/Vinicius-Calegari/AtmosIQ)
-Plataforma de inteligência climática construída com React e TypeScript, com arquitetura organizada para consumo de dados meteorológicos e evolução de recursos analíticos.
+<h3 align="center">📈 CapitalSync</h3>
+<p align="center"><b>Dashboard financeiro Full Stack</b></p>
 
-**Stack:** React • TypeScript • Vite • Tailwind • TanStack Query • Zustand
+Consulta de ações e criptomoedas com backend ASP.NET Core, cache, integração com provedores externos e tratamento de falhas.
 
-[![Live](https://img.shields.io/badge/LIVE_DEMO-Abrir-238636?style=flat-square&logo=github)](https://vinicius-calegari.github.io/AtmosIQ/)
-[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/AtmosIQ)
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square" />
+</p>
+
+<p align="center">
+<a href="https://capitalsync-production.up.railway.app"><img src="https://img.shields.io/badge/%E2%96%B6_ABRIR_APLICA%C3%87%C3%83O-238636?style=for-the-badge" /></a>
+<a href="https://github.com/Vinicius-Calegari/CapitalSync"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [CapitalSync](https://github.com/Vinicius-Calegari/CapitalSync)
-Dashboard financeiro full stack para consulta de ações e criptomoedas, com backend ASP.NET Core, cache e integração com provedores externos de mercado.
+<h3 align="center">🌦️ AtmosIQ</h3>
+<p align="center"><b>Inteligência climática em React</b></p>
 
-**Stack:** C# • .NET • ASP.NET Core • JavaScript • REST APIs
+Frontend moderno em React/TypeScript com arquitetura organizada, gerenciamento de estado e consumo de dados meteorológicos.
 
-[![Live](https://img.shields.io/badge/PRODU%C3%87%C3%83O-Abrir-238636?style=flat-square&logo=railway)](https://capitalsync-production.up.railway.app)
-[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/CapitalSync)
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://vinicius-calegari.github.io/AtmosIQ/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-238636?style=for-the-badge" /></a>
+<a href="https://github.com/Vinicius-Calegari/AtmosIQ"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💈 [MS Barbearia](https://github.com/Vinicius-Calegari/MS--Barberaria)
-Sistema web de gestão para barbearia com autenticação, clientes e agendamentos. Projeto PHP/MySQL containerizado e preparado para ambiente de produção.
+<h3 align="center">💈 MS Barbearia</h3>
+<p align="center"><b>Sistema de gestão PHP/MySQL</b></p>
 
-**Stack:** PHP • MySQL • JavaScript • Docker
+Aplicação com clientes, autenticação e agendamentos, conexão MySQL e ambiente containerizado para produção.
 
-[![Live](https://img.shields.io/badge/PRODU%C3%87%C3%83O-Abrir-238636?style=flat-square&logo=railway)](https://ms-barbearia-production.up.railway.app)
-[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/MS--Barberaria)
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://ms-barbearia-production.up.railway.app"><img src="https://img.shields.io/badge/%E2%96%B6_PRODU%C3%87%C3%83O-238636?style=for-the-badge" /></a>
+<a href="https://github.com/Vinicius-Calegari/MS--Barberaria"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ [CRUD PHP/MySQL](https://github.com/Vinicius-Calegari/CRUD)
-Projeto de gestão de clientes com implementação PHP/MySQL e uma demonstração pública independente em JavaScript/localStorage para avaliação rápida no navegador.
+<h3 align="center">🗂️ CRUD de Clientes</h3>
+<p align="center"><b>PHP/MySQL + demo interativa</b></p>
 
-**Stack:** PHP • MySQL • JavaScript • GitHub Actions
+CRUD com implementação backend em PHP/MySQL e versão demonstrável no navegador com criação, pesquisa, edição e exclusão.
 
-[![Demo](https://img.shields.io/badge/LIVE_DEMO-Abrir-238636?style=flat-square&logo=github)](https://vinicius-calegari.github.io/CRUD/)
-[![Code](https://img.shields.io/badge/C%C3%93DIGO-Reposit%C3%B3rio-30363d?style=flat-square&logo=github)](https://github.com/Vinicius-Calegari/CRUD)
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://vinicius-calegari.github.io/CRUD/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-238636?style=for-the-badge" /></a>
+<a href="https://github.com/Vinicius-Calegari/CRUD"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+</p>
 
 </td>
 </tr>
@@ -94,61 +122,91 @@ Projeto de gestão de clientes com implementação PHP/MySQL e uma demonstraçã
 
 ---
 
-## 🔧 O que estes projetos demonstram
-
-```text
-Frontend       → React, TypeScript, JavaScript, HTML/CSS
-Backend        → C#/.NET, ASP.NET Core, PHP
-Dados          → MySQL, Supabase, APIs externas
-Engenharia     → Git, GitHub Actions, Docker, CI/CD
-Deploy         → Railway, GitHub Pages
-```
-
-Além da interface, venho trabalhando em segurança, configuração por variáveis de ambiente, tratamento de erros, organização de arquitetura e deploy reproduzível.
-
----
-
-## 📊 GitHub
+## 🧰 Arsenal técnico
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Calegari&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Calegari&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+### Linguagens
+<img src="https://skillicons.dev/icons?i=cs,java,php,python,js,ts,html,css&perline=8" />
 
-<br/>
+### Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind&perline=5" />
 
-<img src="https://streak-stats.demolab.com?user=Vinicius-Calegari&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+### Dados, DevOps & Ferramentas
+<img src="https://skillicons.dev/icons?i=mysql,supabase,docker,git,github,vite,vscode,visualstudio&perline=8" />
 
 </div>
 
 ---
 
-## 🧭 Engenharia antes de aparência
+## 🧠 Como penso software
+
+<div align="center">
 
 ```text
-Problema → requisitos → arquitetura → implementação → testes → deploy → observabilidade → melhoria
+IDEIA
+  ↓
+PROBLEMA REAL
+  ↓
+REQUISITOS
+  ↓
+ARQUITETURA
+  ↓
+CÓDIGO  →  TESTES  →  SEGURANÇA
+  ↓
+DEPLOY
+  ↓
+OBSERVABILIDADE
+  ↓
+MELHORIA CONTÍNUA
 ```
 
-Um repositório só entra como destaque quando consegue explicar **o problema que resolve, como foi construído e como pode ser executado ou avaliado**. A meta é evoluir cada projeto nessa direção.
+</div>
+
+Hoje meu foco técnico está em fazer os projetos sobreviverem ao passo que muita demo ignora: **sair do localhost e funcionar em produção**.
 
 ---
 
-## 📚 Atualmente aprofundando
+## 📊 Atividade no GitHub
 
-- Estruturas de dados e algoritmos
-- APIs REST e arquitetura backend
-- C# / .NET e Java
-- React e TypeScript
-- Bancos de dados relacionais
-- Docker e pipelines de CI/CD
-- Engenharia de software e automação
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Calegari&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Calegari&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vinicius-Calegari&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Calegari&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🎯 Em evolução agora
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arquitetura_Backend-Em_evolu%C3%A7%C3%A3o-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C%23_%2F_.NET-Em_evolu%C3%A7%C3%A3o-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React_%2B_TypeScript-Em_evolu%C3%A7%C3%A3o-3178C6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD_%2B_Docker-Em_evolu%C3%A7%C3%A3o-2496ED?style=for-the-badge" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Software útil, executável e evolutivo.
+### 💬 Vamos construir algo útil?
 
-<img src="https://komarev.com/ghpvc/?username=Vinicius-Calegari&style=for-the-badge&color=2f81f7&label=VISITAS+AO+PERFIL" alt="Profile views" />
+**Software útil. Código verificável. Deploy real.**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1158C7,100:58A6FF" alt="Footer" />
 
 </div>
