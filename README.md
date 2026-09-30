@@ -6,6 +6,7 @@
 
 <br/><br/>
 
+<a href="https://viniciuscalegari.netlify.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-Abrir-238636?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="mailto:viniciusandradecalegari@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Vinicius-Calegari"><img src="https://img.shields.io/badge/GITHUB-@Vinicius--Calegari-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://br.linkedin.com/in/vin%C3%ADcius-calegari"><img src="https://img.shields.io/badge/LINKEDIN-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,12 +27,12 @@ const vinicius = {
   formacao: "Técnico em Informática",
   universidade: "Engenharia de Controle e Automação — UFLA",
   foco: "Desenvolvimento Full Stack",
-  construindo: ["Web Apps", "REST APIs", "Sistemas de Gestão", "Automações"],
+  construindo: ["Web Apps", "REST APIs", "Sistemas de Gestão", "Sistemas Embarcados"],
   prioridade: "software que funciona fora do localhost"
 };
 ```
 
-Desenvolvo aplicações de ponta a ponta: **interface, backend, banco de dados, integrações externas e deploy**. Meu portfólio está sendo construído em torno de projetos executáveis, documentação técnica e evolução contínua do código — não apenas exercícios isolados.
+Desenvolvo aplicações de ponta a ponta: **interface, backend, banco de dados, integrações externas e deploy**. Meu portfólio é construído em torno de projetos executáveis, documentação técnica, CI e evolução contínua do código — não apenas exercícios isolados.
 
 ---
 
@@ -44,12 +45,12 @@ Desenvolvo aplicações de ponta a ponta: **interface, backend, banco de dados, 
 <h3 align="center">📈 CapitalSync</h3>
 <p align="center"><b>Dashboard financeiro Full Stack</b></p>
 
-Consulta de ações e criptomoedas com backend ASP.NET Core, cache, integração com provedores externos e tratamento de falhas.
+Consulta de ações e criptomoedas com backend ASP.NET Core, cache, integração com provedores externos, rate limiting, healthcheck e testes automatizados.
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 <p align="center">
@@ -63,7 +64,7 @@ Consulta de ações e criptomoedas com backend ASP.NET Core, cache, integração
 <h3 align="center">🌦️ AtmosIQ</h3>
 <p align="center"><b>Inteligência climática em React</b></p>
 
-Frontend moderno em React/TypeScript com arquitetura organizada, gerenciamento de estado e consumo de dados meteorológicos.
+Frontend em React/TypeScript com separação de camadas, TanStack Query, Zustand, CI, GitHub Pages e auditoria Lighthouse automatizada.
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -82,14 +83,14 @@ Frontend moderno em React/TypeScript com arquitetura organizada, gerenciamento d
 <td width="50%" valign="top">
 
 <h3 align="center">💈 MS Barbearia</h3>
-<p align="center"><b>Sistema de gestão PHP/MySQL</b></p>
+<p align="center"><b>Sistema de operação PHP/MySQL</b></p>
 
-Aplicação com clientes, autenticação e agendamentos, conexão MySQL e ambiente containerizado para produção.
+Aplicação em produção com área do cliente e painel administrativo: agenda, preços dinâmicos, histórico de valor por reserva, presença/falta, receita, clientes, CSRF, MySQL e migrations automáticas.
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 </p>
 
 <p align="center">
@@ -100,20 +101,19 @@ Aplicação com clientes, autenticação e agendamentos, conexão MySQL e ambien
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🗂️ CRUD de Clientes</h3>
-<p align="center"><b>PHP/MySQL + demo interativa</b></p>
+<h3 align="center">🚧 SmartGate Arduino</h3>
+<p align="center"><b>Controle embarcado bidirecional</b></p>
 
-CRUD com implementação backend em PHP/MySQL e versão demonstrável no navegador com criação, pesquisa, edição e exclusão.
+Protótipo com sensores ultrassônicos, máquina de estados, servo, sinalização, reabertura por obstáculo, temporização não bloqueante e CI de compilação do firmware.
 
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded-0D1117?style=flat-square" />
 </p>
 
 <p align="center">
-<a href="https://vinicius-calegari.github.io/CRUD/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-238636?style=for-the-badge" /></a>
-<a href="https://github.com/Vinicius-Calegari/CRUD"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Vinicius-Calegari/SmartGate-Arduino"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
 </p>
 
 </td>
@@ -132,8 +132,8 @@ CRUD com implementação backend em PHP/MySQL e versão demonstrável no navegad
 ### Frameworks & Backend
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap,tailwind&perline=5" />
 
-### Dados, DevOps & Ferramentas
-<img src="https://skillicons.dev/icons?i=mysql,supabase,docker,git,github,vite,vscode,visualstudio&perline=8" />
+### Dados, DevOps & Engenharia
+<img src="https://skillicons.dev/icons?i=mysql,supabase,docker,git,github,vite,arduino,vscode&perline=8" />
 
 </div>
 
@@ -191,7 +191,7 @@ Hoje meu foco técnico está em fazer os projetos sobreviverem ao passo que muit
 <div align="center">
 
 <img src="https://img.shields.io/badge/Arquitetura_Backend-Em_evolu%C3%A7%C3%A3o-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C%23_%2F_.NET-Em_evolu%C3%A7%C3%A3o-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Testes_%2B_Seguran%C3%A7a-Em_evolu%C3%A7%C3%A3o-238636?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React_%2B_TypeScript-Em_evolu%C3%A7%C3%A3o-3178C6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CI%2FCD_%2B_Docker-Em_evolu%C3%A7%C3%A3o-2496ED?style=for-the-badge" />
 
