@@ -118,6 +118,29 @@ Protótipo com sensores ultrassônicos, máquina de estados, servo, sinalizaçã
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">🥟 Salgados Rosilene</h3>
+<p align="center"><b>Sistema de encomendas Full Stack com Supabase</b></p>
+
+Aplicação em React/TypeScript com catálogo administrável, pedidos, Pix, dinheiro, fiado, retirada/entrega, agenda, clientes, PDFs, CSV, backup e regras críticas validadas no servidor. O cliente pode pedir para o mesmo dia quando ainda existe horário futuro disponível — sem antecedência fixa de 3 dias.
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://salgados-rosilene-production.up.railway.app"><img src="https://img.shields.io/badge/%E2%96%B6_PRODU%C3%87%C3%83O-238636?style=for-the-badge" /></a>
+<a href="https://github.com/Vinicius-Calegari/Portfolio/tree/salgados-rosilene"><img src="https://img.shields.io/badge/%3C%2F%3E_C%C3%93DIGO-30363D?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
