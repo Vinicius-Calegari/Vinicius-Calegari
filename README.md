@@ -14,7 +14,7 @@ Gosto de desenvolvimento web, backend e automação. Hoje estou aprofundando pri
 
 ## Tecnologias que uso
 
-`C#` ` .NET` `React` `TypeScript` `JavaScript` `PHP` `MySQL` `PostgreSQL` `Supabase` `Git` `GitHub Actions` `Arduino/C++`
+`C#` `.NET` `React` `TypeScript` `JavaScript` `PHP` `Bootstrap` `MySQL` `PostgreSQL` `Supabase` `Git` `GitHub Actions` `Arduino/C++`
 
 ## Links
 
